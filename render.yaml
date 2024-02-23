@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: bro6
+    name: learm
     env: docker
     plan: free
