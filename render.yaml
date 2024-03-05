@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: learm
+    name: mathis
     env: docker
     plan: free
