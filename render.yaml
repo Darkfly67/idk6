@@ -1,5 +1,0 @@
-services:
-  - type: web
-    name: english
-    env: docker
-    plan: free
